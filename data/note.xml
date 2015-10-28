@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<commands>
+    <command action="split" paramx="," paramy="">
+        <data>Hi there, this is me</data>
+    </command>
+    <command action="replace" paramx="me" paramy="mgamal">
+        <data>Hi there, this is me</data>
+    </command>
+    <command action="find" paramx="there" paramy="">
+        <data>Hi there, this is me</data>
+    </command>
+    <command action="add" paramx="" paramy="">
+        <data>1 3 4 5 88 22 45</data>
+    </command>
+</commands>
